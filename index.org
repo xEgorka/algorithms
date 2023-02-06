@@ -4,31 +4,31 @@ https://practicum.yandex.ru/trainer/algorithms/lesson/99be9f47-9445-4d66-97e8-74
 
 *** Contest
 **** A. A+B
-../algorithms/sprint0/contest/a.py
 https://contest.yandex.ru/contest/26365/problems/A
+../algorithms/sprint0/contest/a.py
 **** B. Застёжка-молния
-../algorithms/sprint0/contest/b.py
 https://contest.yandex.ru/contest/26365/problems/B
+../algorithms/sprint0/contest/b.py
 **** C. Скользящее среднее
-../algorithms/sprint0/contest/c.py
 https://contest.yandex.ru/contest/26365/problems/C
+../algorithms/sprint0/contest/c.py
 **** D. Две фишки
-../algorithms/sprint0/contest/d.py
 https://contest.yandex.ru/contest/26365/problems/D
+../algorithms/sprint0/contest/d.py
 **** E. Две фишки - 2
-../algorithms/sprint0/contest/e.py
 https://contest.yandex.ru/contest/26365/problems/E
+../algorithms/sprint0/contest/e.py
 
 ** Sprint 1. Введение в алгоритмы
 https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/52299/topics/60736bd4-cd70-428f-bd40-4598148b8265/lessons/19b61620-2f86-48af-a05a-a6b83870d406/
 
 *** Contest
 **** A. Значения функции
-../algorithms/sprint1/contest/a.py
 https://contest.yandex.ru/contest/22449/problems/A
+../algorithms/sprint1/contest/a.py
 **** B. Чётные и нечётные числа
-../algorithms/sprint1/contest/b.py
 https://contest.yandex.ru/contest/22449/problems/B
+../algorithms/sprint1/contest/b.py
 **** C. Соседи
 https://contest.yandex.ru/contest/22449/problems/C
 ../algorithms/sprint1/contest/c.py
