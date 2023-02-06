@@ -1,0 +1,501 @@
+* Index
+** Sprint 0. Введение в алгоритмы
+https://practicum.yandex.ru/trainer/algorithms/lesson/99be9f47-9445-4d66-97e8-74d28a2f809d/
+
+*** Contest
+**** A. A+B
+../algorithms/sprint0/contest/a.py
+https://contest.yandex.ru/contest/26365/problems/A
+**** B. Застёжка-молния
+../algorithms/sprint0/contest/b.py
+https://contest.yandex.ru/contest/26365/problems/B
+**** C. Скользящее среднее
+../algorithms/sprint0/contest/c.py
+https://contest.yandex.ru/contest/26365/problems/C
+**** D. Две фишки
+../algorithms/sprint0/contest/d.py
+https://contest.yandex.ru/contest/26365/problems/D
+**** E. Две фишки - 2
+../algorithms/sprint0/contest/e.py
+https://contest.yandex.ru/contest/26365/problems/E
+
+** Sprint 1. Введение в алгоритмы
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/52299/topics/60736bd4-cd70-428f-bd40-4598148b8265/lessons/19b61620-2f86-48af-a05a-a6b83870d406/
+
+*** Contest
+**** A. Значения функции
+../algorithms/sprint1/contest/a.py
+https://contest.yandex.ru/contest/22449/problems/A
+**** B. Чётные и нечётные числа
+../algorithms/sprint1/contest/b.py
+https://contest.yandex.ru/contest/22449/problems/B
+**** C. Соседи
+https://contest.yandex.ru/contest/22449/problems/C
+../algorithms/sprint1/contest/c.py
+**** D. Хаотичность погоды
+https://contest.yandex.ru/contest/22449/problems/D
+../algorithms/sprint1/contest/d.py
+**** E. Самое длинное слово
+https://contest.yandex.ru/contest/22449/problems/E
+../algorithms/sprint1/contest/e.py
+**** F. Палиндром
+https://contest.yandex.ru/contest/22449/problems/F
+../algorithms/sprint1/contest/f.py
+**** G. Работа из дома
+https://contest.yandex.ru/contest/22449/problems/G
+../algorithms/sprint1/contest/g.py
+**** H. Двоичная система
+https://contest.yandex.ru/contest/22449/problems/H
+../algorithms/sprint1/contest/h.py
+**** I. Степень четырёх
+https://contest.yandex.ru/contest/22449/problems/I
+../algorithms/sprint1/contest/i.py
+**** J. Факторизация
+https://contest.yandex.ru/contest/22449/problems/J
+../algorithms/sprint1/contest/j.py
+**** K. Списочная форма
+https://contest.yandex.ru/contest/22449/problems/K
+../algorithms/sprint1/contest/k.py
+**** L. Лишняя буква
+https://contest.yandex.ru/contest/22449/problems/L
+../algorithms/sprint1/contest/l.py
+
+*** Final
+**** A. Ближайший ноль
+https://contest.yandex.ru/contest/22450/problems/A
+../algorithms/sprint1/final/a.py
+**** B. Ловкость рук
+https://contest.yandex.ru/contest/22450/problems/B
+../algorithms/sprint1/final/b.py
+
+** Sprint 2. Основные структуры данных
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59754/topics/3fe165ac-9a25-44db-b5bf-106709d1c140/lessons/56a568f6-4a5f-41f2-9cec-5535ef4a28de/
+
+*** Contest
+**** A. Мониторинг
+https://contest.yandex.ru/contest/22779/problems/A
+../algorithms/sprint2/contest/a.py
+**** B. Список дел
+https://contest.yandex.ru/contest/22779/problems/B
+../algorithms/sprint2/contest/b.py
+**** C. Нелюбимое дело
+https://contest.yandex.ru/contest/22779/problems/C
+../algorithms/sprint2/contest/c.py
+**** D. Заботливая мама
+https://contest.yandex.ru/contest/22779/problems/D
+../algorithms/sprint2/contest/d.py
+**** E. Всё наоборот
+https://contest.yandex.ru/contest/22779/problems/E
+../algorithms/sprint2/contest/e.py
+**** F. Стек - Max
+https://contest.yandex.ru/contest/22779/problems/F
+../algorithms/sprint2/contest/f.py
+**** G. Стек - MaxEffective
+https://contest.yandex.ru/contest/22779/problems/G
+../algorithms/sprint2/contest/g.py
+**** H. Скобочная последовательность
+https://contest.yandex.ru/contest/22779/problems/H
+../algorithms/sprint2/contest/h.py
+**** I. Ограниченная очередь
+https://contest.yandex.ru/contest/22779/problems/I
+../algorithms/sprint2/contest/i.py
+**** J. Списочная очередь
+https://contest.yandex.ru/contest/22779/problems/J
+../algorithms/sprint2/contest/j.py
+**** K. Рекурсивные числа Фибоначчи
+https://contest.yandex.ru/contest/22779/problems/K
+../algorithms/sprint2/contest/k.py
+**** L. Фибоначчи по модулю
+https://contest.yandex.ru/contest/22779/problems/L
+../algorithms/sprint2/contest/l.py
+
+*** Final
+**** A. Дек
+https://contest.yandex.ru/contest/22781/problems/A
+../algorithms/sprint2/final/a.py
+**** B. Калькулятор
+https://contest.yandex.ru/contest/22781/problems/B
+../algorithms/sprint2/final/b.py
+
+** Sprint 3. Рекурсия и сортировки
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59755/topics/4a0eb007-5d71-4dda-bc54-df8c743f80ea/lessons/40b85d70-2663-4905-80e0-760088e14eac/
+
+*** Contest
+**** A. Генератор скобок
+https://contest.yandex.ru/contest/23638/problems/A
+../algorithms/sprint3/contest/a.py
+**** B. Комбинации
+https://contest.yandex.ru/contest/23638/problems/B
+../algorithms/sprint3/contest/b.py
+**** C. Подпоследовательность
+https://contest.yandex.ru/contest/23638/problems/C
+../algorithms/sprint3/contest/c.py
+**** D. ПеченькиE. Покупка домов
+https://contest.yandex.ru/contest/23638/problems/D
+../algorithms/sprint3/contest/d.py
+**** F. Периметр треугольника
+https://contest.yandex.ru/contest/23638/problems/F
+../algorithms/sprint3/contest/f.py
+**** G. Гардероб
+https://contest.yandex.ru/contest/23638/problems/G
+../algorithms/sprint3/contest/g.py
+**** H. Большое число
+https://contest.yandex.ru/contest/23638/problems/H
+../algorithms/sprint3/contest/h.py
+**** I. Любители конференций
+https://contest.yandex.ru/contest/23638/problems/I
+../algorithms/sprint3/contest/i.py
+**** J. Пузырёк
+https://contest.yandex.ru/contest/23638/problems/J
+../algorithms/sprint3/contest/j.py
+**** K. Сортировка слиянием
+https://contest.yandex.ru/contest/23638/problems/K
+../algorithms/sprint3/contest/k.py
+**** L. Два велосипеда
+https://contest.yandex.ru/contest/23638/problems/L
+../algorithms/sprint3/contest/l.py
+**** M. Золотая середина
+https://contest.yandex.ru/contest/23638/problems/M
+../algorithms/sprint3/contest/m.py
+**** N. Клумбы
+https://contest.yandex.ru/contest/23638/problems/N
+../algorithms/sprint3/contest/n.py
+**** O. Разность треш-индексов
+https://contest.yandex.ru/contest/23638/problems/O
+../algorithms/sprint3/contest/o.py
+**** P. Частичная сортировка
+https://contest.yandex.ru/contest/23638/problems/P
+../algorithms/sprint3/contest/p.py
+
+*** Final
+**** A. Поиск в сломанном массиве
+https://contest.yandex.ru/contest/23815/problems/A
+../algorithms/sprint3/final/a.py
+**** B. Эффективная быстрая сортировка
+https://contest.yandex.ru/contest/23815/problems/B
+../algorithms/sprint3/final/b.py
+
+** Sprint 4. Хеш-функции
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59756/topics/618173c7-3c0e-4955-b88b-d7146f9ffe2e/lessons/3f569872-ae50-437b-988e-ac4bcefddbe2/
+
+*** Contest
+**** A. Полиномиальный хеш
+https://contest.yandex.ru/contest/23991/problems/A
+../algorithms/sprint4/contest/a.py
+**** B. Сломай меня
+https://contest.yandex.ru/contest/23991/problems/B
+../algorithms/sprint4/contest/b.py
+**** C. Префиксные хеши
+https://contest.yandex.ru/contest/23991/problems/C
+../algorithms/sprint4/contest/c.py
+**** D. Кружки
+https://contest.yandex.ru/contest/23991/problems/D
+../algorithms/sprint4/contest/d.py
+**** E. Подстроки
+https://contest.yandex.ru/contest/23991/problems/E
+../algorithms/sprint4/contest/e.py
+**** F. Анаграммная группировка
+https://contest.yandex.ru/contest/23991/problems/F
+../algorithms/sprint4/contest/f.py
+**** G. Соревнование
+https://contest.yandex.ru/contest/23991/problems/G
+../algorithms/sprint4/contest/g.py
+**** H. Странное сравнение
+https://contest.yandex.ru/contest/23991/problems/H
+../algorithms/sprint4/contest/h.py
+**** I. Общий подмассив
+https://contest.yandex.ru/contest/23991/problems/I
+../algorithms/sprint4/contest/i.py
+**** J. Сумма четвёрок
+https://contest.yandex.ru/contest/23991/problems/J
+../algorithms/sprint4/contest/j.py
+**** K. Ближайшая остановка
+https://contest.yandex.ru/contest/23991/problems/K
+../algorithms/sprint4/contest/k.py
+**** L. МногоГоша
+https://contest.yandex.ru/contest/23991/problems/L
+../algorithms/sprint4/contest/l.py
+
+*** Final
+**** A. Поисковая система
+https://contest.yandex.ru/contest/24414/problems/A
+../algorithms/sprint4/final/a.py
+**** B. Хеш-таблица
+https://contest.yandex.ru/contest/24414/problems/B
+../algorithms/sprint4/final/b.py
+
+** Sprint 5. Деревья
+
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59757/topics/e7dbf42a-fd5a-434b-990d-9cfe0e3a10c8/lessons/bcce5eab-cf31-4028-ba73-fd5ac6ab71eb/
+*** Contest
+**** A. Лампочки
+https://contest.yandex.ru/contest/24809/problems/A
+../algorithms/sprint5/contest/a.py
+**** B. Сбалансированное дерево
+https://contest.yandex.ru/contest/24809/problems/B
+../algorithms/sprint5/contest/b.py
+**** C. Дерево - анаграмма
+https://contest.yandex.ru/contest/24809/problems/C
+../algorithms/sprint5/contest/c.py
+**** D. Деревья - близнецы
+https://contest.yandex.ru/contest/24809/problems/D
+../algorithms/sprint5/contest/d.py
+**** E. Дерево поиска
+https://contest.yandex.ru/contest/24809/problems/E
+../algorithms/sprint5/contest/e.py
+**** F. Максимальная глубина
+https://contest.yandex.ru/contest/24809/problems/F
+../algorithms/sprint5/contest/f.py
+**** G. Максимальный путь в дереве
+https://contest.yandex.ru/contest/24809/problems/G
+../algorithms/sprint5/contest/g.py
+**** H. Числовые пути
+https://contest.yandex.ru/contest/24809/problems/H
+../algorithms/sprint5/contest/h.py
+**** I. Разные деревья поиска
+https://contest.yandex.ru/contest/24809/problems/I
+../algorithms/sprint5/contest/i.py
+**** J. Добавь узел
+https://contest.yandex.ru/contest/24809/problems/J
+../algorithms/sprint5/contest/j.py
+**** K. Выведи диапазон
+https://contest.yandex.ru/contest/24809/problems/K
+../algorithms/sprint5/contest/k.py
+**** L. Просеивание вниз
+https://contest.yandex.ru/contest/24809/problems/L
+../algorithms/sprint5/contest/l.py
+**** M. Просеивание вверх
+https://contest.yandex.ru/contest/24809/problems/M
+../algorithms/sprint5/contest/m.py
+**** N. Разбиение дерева
+https://contest.yandex.ru/contest/24809/problems/N
+../algorithms/sprint5/contest/n.py
+
+*** Final
+**** A. Пирамидальная сортировка
+https://contest.yandex.ru/contest/24810/problems/A
+../algorithms/sprint5/final/a.py
+**** B. Удали узел
+https://contest.yandex.ru/contest/24810/problems/B
+../algorithms/sprint5/final/b.py
+
+** Sprint 6. Графы
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59758/topics/45179065-a73b-473d-94d1-24774573f266/lessons/07dbd181-7e2b-42ce-804f-c74cbee8bc86/
+
+*** Contest
+**** A. Построить список смежности
+https://contest.yandex.ru/contest/25069/problems/A
+../algorithms/sprint6/contest/a.py
+**** B. Перевести список ребер в матрицу смежности
+https://contest.yandex.ru/contest/25069/problems/B
+../algorithms/sprint6/contest/b.py
+**** C. DFS
+https://contest.yandex.ru/contest/25069/problems/C
+../algorithms/sprint6/contest/c.py
+**** D. BFS
+https://contest.yandex.ru/contest/25069/problems/D
+../algorithms/sprint6/contest/d.py
+**** E. Компоненты связности
+https://contest.yandex.ru/contest/25069/problems/E
+../algorithms/sprint6/contest/e.py
+**** F. Расстояние между вершинами
+https://contest.yandex.ru/contest/25069/problems/F
+../algorithms/sprint6/contest/f.py
+**** G. Максимальное расстояние
+https://contest.yandex.ru/contest/25069/problems/G
+../algorithms/sprint6/contest/g.py
+**** H. Время выходить
+https://contest.yandex.ru/contest/25069/problems/H
+../algorithms/sprint6/contest/h.py
+**** J. Топологическая сортировка
+https://contest.yandex.ru/contest/25069/problems/J
+../algorithms/sprint6/contest/j.py
+**** K. Достопримечательности
+https://contest.yandex.ru/contest/25069/problems/K
+../algorithms/sprint6/contest/k.py
+**** L. Полный граф
+https://contest.yandex.ru/contest/25069/problems/L
+../algorithms/sprint6/contest/l.py
+**** M. Проверка на двудольность
+https://contest.yandex.ru/contest/25069/problems/M
+../algorithms/sprint6/contest/m.py
+
+*** Final
+**** A. Дорогая сеть
+https://contest.yandex.ru/contest/25070/problems/A
+../algorithms/sprint6/final/a.py
+**** B. Железные дороги
+https://contest.yandex.ru/contest/25070/problems/B
+../algorithms/sprint6/final/b.py
+
+** Sprint 7. Жадные алгоритмы и динамическое программирование
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59759/topics/18d9b322-aae7-4ada-bf94-157d65f03181/lessons/6ce1bc22-2015-4fa7-abaf-61edf7d43312/
+
+*** Contest
+**** A. Биржа
+https://contest.yandex.ru/contest/25596/problems/A
+../algorithms/sprint7/contest/a.py
+**** B. Расписание
+https://contest.yandex.ru/contest/25596/problems/B
+../algorithms/sprint7/contest/b.py
+**** C. Золотая лихорадка
+https://contest.yandex.ru/contest/25596/problems/C
+../algorithms/sprint7/contest/c.py
+**** D. Числа Фибоначчи для взрослых
+https://contest.yandex.ru/contest/25596/problems/D
+../algorithms/sprint7/contest/d.py
+**** E. Алла на Алгосах
+https://contest.yandex.ru/contest/25596/problems/E
+../algorithms/sprint7/contest/e.py
+**** F. Прыжки по лестнице
+https://contest.yandex.ru/contest/25596/problems/F
+../algorithms/sprint7/contest/f.py
+**** G. Банкомат
+https://contest.yandex.ru/contest/25596/problems/G
+../algorithms/sprint7/contest/g.py
+**** H. Поле с цветочками
+https://contest.yandex.ru/contest/25596/problems/H
+../algorithms/sprint7/contest/h.py
+**** I. Сложное поле с цветочками
+https://contest.yandex.ru/contest/25596/problems/I
+../algorithms/sprint7/contest/i.py
+**** J. Путешествие
+https://contest.yandex.ru/contest/25596/problems/J
+../algorithms/sprint7/contest/j.py
+**** K. Гороскопы
+https://contest.yandex.ru/contest/25596/problems/K
+../algorithms/sprint7/contest/k.py
+**** L. Золото лепреконов
+https://contest.yandex.ru/contest/25596/problems/L
+../algorithms/sprint7/contest/l.py
+**** M. Рюкзак
+https://contest.yandex.ru/contest/25596/problems/M
+../algorithms/sprint7/contest/m.py
+**** N. Гоша в ресторане
+https://contest.yandex.ru/contest/25596/problems/N
+../algorithms/sprint7/contest/n.py
+**** O. Количество путей
+https://contest.yandex.ru/contest/25596/problems/O
+../algorithms/sprint7/contest/o.py
+
+*** Final
+**** A. Расстояние по Левенштейну
+https://contest.yandex.ru/contest/25597/problems/A
+../algorithms/sprint7/final/a.py
+**** B. Одинаковые суммы
+https://contest.yandex.ru/contest/25597/problems/B
+../algorithms/sprint7/final/b.py
+
+** Sprint 8. Алгоритмы на строках
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59760/topics/c83dc564-7573-4f64-8d1f-032c4206fac1/lessons/0a362e3a-a881-4ab4-8039-85ff11783789/
+
+*** Contest
+**** A. Разворот строки
+https://contest.yandex.ru/contest/26131/problems/A
+../algorithms/sprint8/contest/a.py
+**** B. Пограничный контроль
+https://contest.yandex.ru/contest/26131/problems/B
+../algorithms/sprint8/contest/b.py
+**** C. Самый длинный палиндром 2
+https://contest.yandex.ru/contest/26131/problems/C
+../algorithms/sprint8/contest/c.py
+**** D. Общий префикс
+https://contest.yandex.ru/contest/26131/problems/D
+../algorithms/sprint8/contest/d.py
+**** E. Вставка строк
+https://contest.yandex.ru/contest/26131/problems/E
+../algorithms/sprint8/contest/e.py
+**** F. Частое слово
+https://contest.yandex.ru/contest/26131/problems/F
+../algorithms/sprint8/contest/f.py
+**** G. Поиск со сдвигом
+https://contest.yandex.ru/contest/26131/problems/G
+../algorithms/sprint8/contest/g.py
+**** H. Глобальная замена
+https://contest.yandex.ru/contest/26131/problems/H
+../algorithms/sprint8/contest/h.py
+**** I. Повтор
+https://contest.yandex.ru/contest/26131/problems/I
+../algorithms/sprint8/contest/i.py
+**** J. Случай верблюда
+https://contest.yandex.ru/contest/26131/problems/J
+../algorithms/sprint8/contest/j.py
+**** K. Сравнить две строки
+https://contest.yandex.ru/contest/26131/problems/K
+../algorithms/sprint8/contest/k.py
+**** L. Подсчёт префикс-функции
+https://contest.yandex.ru/contest/26131/problems/L
+../algorithms/sprint8/contest/l.py
+
+*** Final
+**** A. Packed Prefix
+https://contest.yandex.ru/contest/26133/problems/A
+../algorithms/sprint8/final/a.py
+**** B. Шпаргалка
+https://contest.yandex.ru/contest/26133/problems/B
+../algorithms/sprint8/final/b.py
+
+** Yandex.Practicum: подготовка к собеседованиям
+https://practicum.yandex.ru/learn/algorithms/courses/7f101a83-9539-4599-b6e8-8645c3f31fad/sprints/59759/topics/18d9b322-aae7-4ada-bf94-157d65f03181/lessons/7b86cf71-2be3-4af4-96ab-d87aae0a2351/
+
+*** Contest
+**** A. Card Counter
+https://contest.yandex.ru/contest/34147/problems/A
+../algorithms/sprint7/additional/a.py
+**** B. Статус 200
+https://contest.yandex.ru/contest/34147/problems/B
+../algorithms/sprint7/additional/b.py
+**** C. Matrix. Resurrection
+https://contest.yandex.ru/contest/34147/problems/C
+../algorithms/sprint7/additional/c.py
+**** D. Римлянин
+https://contest.yandex.ru/contest/34147/problems/D
+../algorithms/sprint7/additional/d.py
+**** E. Хорошие строки
+https://contest.yandex.ru/contest/34147/problems/E
+../algorithms/sprint7/additional/e.py
+**** F. Пути в дереве
+https://contest.yandex.ru/contest/34147/problems/F
+../algorithms/sprint7/additional/f.py
+**** G. Сизиф
+https://contest.yandex.ru/contest/34147/problems/G
+../algorithms/sprint7/additional/g.py
+**** H. Частичный разворот
+https://contest.yandex.ru/contest/34147/problems/H
+../algorithms/sprint7/additional/h.py
+**** I. Ферзи
+https://contest.yandex.ru/contest/34147/problems/I
+../algorithms/sprint7/additional/i.py
+**** J. Разрыв шаблона
+https://contest.yandex.ru/contest/34147/problems/J
+../algorithms/sprint7/additional/j.py
+**** K. Пересечение отрезков
+https://contest.yandex.ru/contest/34147/problems/K
+../algorithms/sprint7/additional/k.py
+**** L. Массив юрского периода
+https://contest.yandex.ru/contest/34147/problems/L
+../algorithms/sprint7/additional/l.py
+**** M. Атака клонов
+https://contest.yandex.ru/contest/34147/problems/M
+../algorithms/sprint7/additional/m.py
+**** N. Монополия++
+https://contest.yandex.ru/contest/34147/problems/N
+../algorithms/sprint7/additional/n.py
+**** O. Граница дерева
+https://contest.yandex.ru/contest/34147/problems/O
+../algorithms/sprint7/additional/o.py
+**** P. Прямота
+https://contest.yandex.ru/contest/34147/problems/P
+../algorithms/sprint7/additional/p.py
+**** Q. Паша и Марк
+https://contest.yandex.ru/contest/34147/problems/Q
+../algorithms/sprint7/additional/q.py
+**** R. По ip вычислю
+https://contest.yandex.ru/contest/34147/problems/R
+../algorithms/sprint7/additional/return.py
+**** S. XORошая задача
+https://contest.yandex.ru/contest/34147/problems/S
+../algorithms/sprint7/additional/s.py
+**** T. Опять скобочные последовательности
+https://contest.yandex.ru/contest/34147/problems/T
+../algorithms/sprint7/additional/t.py

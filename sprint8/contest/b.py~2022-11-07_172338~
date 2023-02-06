@@ -1,0 +1,29 @@
+def main() -> int:
+    s, t = input(), input()
+    if abs(len(s) - len(t)) > 1:
+        print('FAIL')
+    elif len(s) > len(t):
+        t += '?'
+    elif len(s) < len(t):
+        s += '?'
+
+    n = len(s)
+    err, j = 0, 0
+    for i in range(n):
+        if s[i] != t[j] and i < n - 1:
+            err += 1
+            if err > 1:
+                print('FAIL')
+                return
+            else:
+                if s[i + 1] == t[j]:
+                    j -= 1
+                elif s[i] == t[j + 1]:
+                    j += 1
+        j += 1
+    print('OK')
+    return 0
+
+
+if __name__ == '__main__':
+    main()
